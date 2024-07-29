@@ -1,9 +1,11 @@
 ### Hi there 👋, my name is Christian!
-#### 5th Year Information Systems @ UF
+### 5th Year Information Systems @ UF
 ![5th Year Information Systems @ UF](https://github.com/ChristianReynolds/ChristianReynolds/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 Current Product Manager @ NBCUniversal-Peacock
+
 Previous Product & Strategy Intern @ Citi 
+
 Previous Undergraduate Researcher @ UF
 
 Skills: Python | C | Javascript | PowerBI | JIRA
