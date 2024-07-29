@@ -1,4 +1,3 @@
-### Hi there 👋, my name is Christian!
 ### 5th Year Information Systems @ UF
 ![5th Year Information Systems @ UF](https://github.com/ChristianReynolds/ChristianReynolds/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
