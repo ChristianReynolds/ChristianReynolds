@@ -15,6 +15,5 @@ Skills: Python | C | Javascript | PowerBI | JIRA
 - 📫 How to reach me: Reynoldsc1@ufl.edu or https://www.linkedin.com/in/christian-a-reynolds/
 - ⚡ Fun fact: I earned my open water scuba diving license and now working on my skydiving license! 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/christianreynolds)  
 
