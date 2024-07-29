@@ -9,3 +9,4 @@ ChristianReynolds/ChristianReynolds is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 ## Examples of Work
+<img src="https://github.com/ChristianReynolds/ChristianReynolds/blob/main/ScreenRecording2021-09-12at11.29.49PM-ezgif.com-optimize.gif" width = "256" />
