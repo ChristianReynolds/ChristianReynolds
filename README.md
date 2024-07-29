@@ -12,7 +12,7 @@ Skills: Python | C | Javascript | PowerBI | JIRA
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Development  
-- 📫 How to reach me: Reynoldsc1@ufl.edu 
+- 📫 How to reach me: Reynoldsc1@ufl.edu or https://www.linkedin.com/in/christian-a-reynolds/
 - ⚡ Fun fact: I earned my open water scuba diving license and now working on my skydiving license! 
 
 
