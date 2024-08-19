@@ -7,7 +7,7 @@ Previous Product & Strategy Intern @ Citi
 
 Previous Undergraduate Researcher @ UF
 
-Skills: Python | C | Javascript | PowerBI | JIRA
+Skills: Python | C/C++ | Javascript | PowerBI | JIRA
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Development  
